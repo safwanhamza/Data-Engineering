@@ -1,1 +1,1 @@
-if
+if/not than
